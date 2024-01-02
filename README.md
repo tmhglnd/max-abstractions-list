@@ -3,6 +3,10 @@
 
 A curated list of many of my Max-abstractions available on github
 
+[![](https://img.shields.io/static/v1?label=Support%20on%20Ko-Fi&message=%E2%9D%A4&logo=Kofi)](https://ko-fi.com/I2I3SV7FX)
+[![](https://img.shields.io/static/v1?label=Support%20on%20Patreon&message=%E2%9D%A4&logo=Patreon)](https://www.patreon.com/bePatron?u=9649817)
+[![](https://img.shields.io/static/v1?label=Support%20on%20Gumroad&message=%E2%9D%A4&logo=Gumroad)](https://tmhglnd.gumroad.com/)
+
 # About
 
 Over the years I've created various abstractions and projects that I've shared via Patreon, Gumroad and Github. Below is a selection from the repositories on github. With the commandline code below you can download all the repositories sequencially into the Max folder (for example `~/Documents/Max 8/Library/`). You can also scroll through the list (sorted alphabetically) and navigate to a specific repo to download it.
